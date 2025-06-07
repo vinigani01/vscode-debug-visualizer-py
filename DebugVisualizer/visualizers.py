@@ -63,7 +63,7 @@ class LinkedListVisualizer:
         
         # Print the JSON for Debug Visualizer
         json_output = json.dumps(self.data)
-        print(json_output)
+        #print(json_output)
         return json_output
 
 
@@ -89,7 +89,7 @@ class ListVisualizer:
         
         # Print JSON for Debug Visualizer
         json_output = json.dumps(self.data)
-        print(json_output)
+        #print(json_output)
         return json_output
 
 
@@ -114,7 +114,7 @@ class GridVisualizer:
         
         # Print JSON for Debug Visualizer
         json_output = json.dumps(self.data)
-        print(json_output)
+        #print(json_output)
         return json_output
 
 
@@ -145,7 +145,7 @@ class GraphVisualizer:
         
         # Print JSON for Debug Visualizer
         json_output = json.dumps(self.data)
-        print(json_output)
+        #print(json_output)
         return json_output
     
     def _visualize_graph(self, graph):
@@ -230,7 +230,7 @@ class TreeVisualizer:
         
         # Print JSON for Debug Visualizer
         json_output = json.dumps(self.data)
-        print(json_output)
+        #print(json_output)
         return json_output
     
     def _build_node(self, node):
@@ -287,7 +287,7 @@ class TableVisualizer:
         
         # Print JSON for Debug Visualizer
         json_output = json.dumps(self.data)
-        print(json_output)
+        #print(json_output)
         return json_output
 
 
@@ -313,7 +313,7 @@ class PlotlyVisualizer:
         
         # Print JSON for Debug Visualizer
         json_output = json.dumps(self.data)
-        print(json_output)
+        #print(json_output)
         return json_output
 
 
@@ -340,7 +340,7 @@ class Plotly3DVisualizer:
         
         # Print JSON for Debug Visualizer
         json_output = json.dumps(self.data)
-        print(json_output)
+        #print(json_output)
         return json_output
 
 
@@ -371,5 +371,5 @@ class PlotlyTableVisualizer:
         
         # Print JSON for Debug Visualizer
         json_output = json.dumps(self.data)
-        print(json_output)
+        #print(json_output)
         return json_output
