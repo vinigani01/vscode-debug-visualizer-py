@@ -5,7 +5,7 @@ This is a Python module that provides a collection of visualization classes for 
 ## Acknowledgements
 
 This project is designed to work with the [VS Code Debug Visualizer extension](https://marketplace.visualstudio.com/items?itemName=hediet.debug-visualizer) created by [Henning Dieterichs](https://github.com/hediet). The visualizers in this package generate JSON in the format expected by this extension.
-The VS Code Debug Visualizer extension is licensed under the [MIT License](https://github.com/hediet/vscode-debug-visualizer/blob/master/LICENSE).
+The VS Code Debug Visualizer extension is licensed under the [MIT License](https://github.com/hediet/vscode-debug-visualizer/blob/master/data-extraction/LICENSE.md).
 
 
 ## Installation
