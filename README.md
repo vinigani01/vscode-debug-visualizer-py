@@ -40,7 +40,7 @@ Steps:
    
 
 The above steps remains the same for all the Visualizer classes available.
-Find various use cases in the 'Example' folder
+Find various use cases in the 'Demo' folder
 
 ## Available Visualizer classes
 
