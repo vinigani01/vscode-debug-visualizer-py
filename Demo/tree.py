@@ -1,6 +1,10 @@
+# trees can be visualized with both TreeVisualizer and GraphVisualizer classes. 
+
 from DebugVisualizer import TreeVisualizer
+# from DebugVisualizer import GraphVisualiser
 
 viz = TreeVisualizer()
+# viz = GraphVisualizer()
 
 class TreeNode:
     def __init__(self, value):
