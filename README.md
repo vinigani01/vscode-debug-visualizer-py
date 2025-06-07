@@ -10,15 +10,15 @@ The VS Code Debug Visualizer extension is licensed under the [MIT License](https
 
 ## Available Visualizers
 
-LinkedListVisualizer
-ListVisualizer
-GridVisualizer
-GraphVisualizer
-TreeVisualizer
-TableVisualizer
-PlotlyVisualizer
-Plotly3DVisualizer
-PlotlyTableVisualizer
+1. LinkedListVisualizer,
+2. ListVisualizer,
+3. GridVisualizer,
+4. GraphVisualizer,
+5. TreeVisualizer,
+6. TableVisualizer,
+7. PlotlyVisualizer,
+8. Plotly3DVisualizer,
+9. PlotlyTableVisualizer
 
 
 ## Installation
