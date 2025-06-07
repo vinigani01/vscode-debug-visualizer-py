@@ -34,10 +34,13 @@ Steps:
    ![image](https://github.com/user-attachments/assets/0de62db1-2050-44ef-8b84-b241fc9e712c)
    
 
-5. During debugging, enter the same line as in in step3 into Debug Visualizer VScode extension's input field
+5. During debugging, enter the same line as in step 3 into Debug Visualizer VScode extension's input field
    
    ![image](https://github.com/user-attachments/assets/d46685d0-b7c9-4b93-a3fc-742db58192fd)
+
    
+   ![Recording 2025-06-07 211930](https://github.com/user-attachments/assets/9d46a139-49e0-4f6f-801b-48586a35f8a2)
+
 
 The above steps remains the same for all the Visualizer classes available.
 Find various use cases in the 'Demo' folder
