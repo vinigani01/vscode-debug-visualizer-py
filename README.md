@@ -38,7 +38,8 @@ Steps:
    
    ![image](https://github.com/user-attachments/assets/d46685d0-b7c9-4b93-a3fc-742db58192fd)
 
-   
+Debugging:
+
    ![Recording 2025-06-07 211930](https://github.com/user-attachments/assets/9d46a139-49e0-4f6f-801b-48586a35f8a2)
 
 
