@@ -46,7 +46,7 @@ Debugging:
 
    
 The above steps remains the same for all available Visualizer classes.
-Find various use cases in the 'Demo' folder
+Find various use cases in the [Demo](https://github.com/vinigani01/vscode-debug-visualizer-py/edit/main/Demo/)
 
 ## Available Visualizer classes
 
