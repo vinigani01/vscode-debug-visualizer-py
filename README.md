@@ -50,14 +50,14 @@ Find various use cases in the 'Demo' folder
 
 ## Available Visualizer classes
 
-1. LinkedListVisualizer,
-2. ListVisualizer,
-3. GridVisualizer,
-4. GraphVisualizer,
-5. TreeVisualizer,
-6. TableVisualizer,
-7. PlotlyVisualizer,
-8. Plotly3DVisualizer,
-9. PlotlyTableVisualizer
+1. LinkedListVisualizer - for singly/doubly/circular linked lists
+2. ListVisualizer - for lists, strings, sets, tuples
+3. GridVisualizer - for grids (2D lists)
+4. GraphVisualizer - for graphs,trees
+5. TreeVisualizer - for trees
+6. TableVisualizer - for tables (list of dictionaries)
+7. PlotlyVisualizer - line graphs using plotly
+8. Plotly3DVisualizer - 3D mesh using plotly
+9. PlotlyTableVisualizer - tables using plotly
 
 
