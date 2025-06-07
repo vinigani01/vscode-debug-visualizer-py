@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name="debug-visualizer",
+    name="DebugVisualizer",
     version="0.1.0",
     packages=find_packages(),
     description="Visualizers for VS Code Debug Visualizer extension",
