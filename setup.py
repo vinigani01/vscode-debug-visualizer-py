@@ -5,7 +5,7 @@ setup(
     version="0.1.0",
     packages=find_packages(),
     description="Python Visualizer classes for VS Code Debug Visualizer extension",
-    author="vinigani",
+    author="vinigani01",
     url="https://github.com/vinigani01/vscode-debug-visualizer-py",
     classifiers=[
         "Programming Language :: Python :: 3",
